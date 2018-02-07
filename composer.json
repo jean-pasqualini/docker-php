@@ -1,0 +1,14 @@
+{
+    "name": "wynd/docker-manager",
+    "require": {
+        "docker-php/docker-php": "^1.24",
+        "symfony/var-dumper": "^3.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jean Pasqualini",
+            "email": "jpasqualini@wynd.eu"
+        }
+    ]
+}
